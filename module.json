@@ -2,7 +2,7 @@
 	"disableAutoUpdate": false,
 	"name": "sorc-fusion-counter",
 	"author": "Snug",
-	"description": "Counts the number of fusion hits from manaboost",
+	"description": "Counts the number of fusion casts from manaboost",
 	"version": "1",
 	"donationUrl": "https://play.google.com/store/apps/details?id=com.CarvedGames.SD",
 	"options": {

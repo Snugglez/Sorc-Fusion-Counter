@@ -1,5 +1,5 @@
 # Sorc-Fusion-Counter
-Counts the number of fusion hits from manaboost with two configurable modes
+Counts the number of fusion casts from manaboost with two configurable modes
 
 inchat:
 
@@ -16,4 +16,4 @@ Command | Argument(s) | Example | Description
 ---|---|---|---
 **!sfc** | NONE | !sfc| Turns the module either on or off (on by default)
 **!sfc** | chat, inchat | !sfc chat| Toggles logging to chat message (on by default)
-**!sfc** | popup | !sfc popup| Toggles pop up messages for fusion hits (off by default)
+**!sfc** | popup | !sfc popup| Toggles pop up messages for fusion casts (off by default)
