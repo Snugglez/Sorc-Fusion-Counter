@@ -1,0 +1,18 @@
+{
+	"disableAutoUpdate": false,
+	"name": "sorc-fusion-counter",
+	"author": "Snug",
+	"description": "Counts the number of fusion hits from manaboost",
+	"version": "1",
+	"donationUrl": "https://play.google.com/store/apps/details?id=com.CarvedGames.SD",
+	"options": {
+		"guiName": "sorc-fusion-counter",
+		"niceName": "sorc-fusion-counter",
+		"settingsVersion": 1,
+		"settingsFile": "config.json",
+		"settingsMigrator": "config_generator.js"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/Snugglez/sorc-fusion-counter/main/"
+	]
+}

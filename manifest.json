@@ -1,0 +1,11 @@
+{
+	"files": {
+		"README.md": "ccf723556f85d29f138b16f6c9544796e223d100651306d027eb34dfa56c80c9",
+		"config_generator.js": "41e3c1d75d1d60b5935263d3a593e5d0ce4e8cbb2563db4c4ec1a579ac5515fd",
+		"index.js": "8bdbe0b980f8cfab21b95b9d154c846fcb93c1903bbf4506d94a0707a8ea15f0",
+		"module.json": "42d61808ae528414d62765299bb15b861d47bcc331e9d5055ac3420fcc931b9a"
+	},
+	"defs": {
+		"S_DUNGEON_EVENT_MESSAGE": 2
+	}
+}
