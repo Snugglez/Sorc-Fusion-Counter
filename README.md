@@ -1,8 +1,12 @@
 # Sorc-Fusion-Counter
 Counts the number of fusion hits from manaboost with two configurable modes
+
 inchat:
+
 ![inchat](https://i.gyazo.com/a394eecefe5155ff0c4a5d8f0e0bbf89.png)
+
 popup:
+
 ![popup](https://i.gyazo.com/42c9b9914212b2a88429153b8a259622.png)
 
 # Commands
